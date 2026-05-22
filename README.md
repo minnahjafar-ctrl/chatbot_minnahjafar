@@ -10,12 +10,12 @@ Store previous conversations
 ## Approach adopted for solving
 I used Python and Groq API inorder to make the chatbot.
 
-After building, I tested the chatbot with various settings,changed max_tokens and temperture to see how differently the chatbot would respond.
+I tested the chatbot with various settings,changed max_tokens and temperture to see how differently the chatbot would respond.
 
 ## Steps involved
 Firstly, I made the chatbot using Python
 
-connected to openAI API
+connected to Groq API
 
 Chatbot was tested on in single turn mode
 
@@ -34,7 +34,7 @@ You can either download or u can clone the project
 
 Open the project the Visual Studio Code
 
-Install the  python package required for this chatbot(OpenAI)
+Install the  python package required for this chatbot
 
 Run the python file
 
