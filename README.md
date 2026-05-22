@@ -1,10 +1,16 @@
 # chatbot_minnahjafar
 
-## PROBLEM STATEMENT:
-We were asked to build a AI chatbot which the users could use to ask questions and the chatbot is expected to answer them properly
+## Problem Statement
+Build a AI chatbot using Groq API and Python
+
+Receive user input and generate AI responses
+
+Store previous conversations
 
 ## Approach adopted for solving
-used Python and OpenAI API inorder to make the chatbot.After building i tested the chatbot with various settings,changed max_tokens and temperture to see how differently the chatbot would respond
+I used Python and Groq API inorder to make the chatbot.
+
+After building, I tested the chatbot with various settings,changed max_tokens and temperture to see how differently the chatbot would respond.
 
 ## Steps involved
 Firstly, I made the chatbot using Python
