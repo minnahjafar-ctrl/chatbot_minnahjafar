@@ -21,8 +21,11 @@ Changed settings to see difference in responses
 In the beginning i had a hard time understanding the API integration but then i was able to connect it.
 Initially i build the chatbot in single turn mode,converting it into multiturn mode was a bit difficult.
 
-## how to run the application
+## How to run the application
 You can either download or u can clone the project
+
 Install the  python package required for this chatbot
+
 Run the python file
+
 start chatting with the chatbot
