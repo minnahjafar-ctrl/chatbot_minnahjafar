@@ -9,13 +9,15 @@ used Python and OpenAI API inorder to make the chatbot.After building i tested t
 ## Steps involved
 Firstly, I made the chatbot using Python
 
-connected to openAI APi
+connected to openAI API
+
+Chatbot was tested on in single turn mode
 
 The bot was then converted to multiturn mode so that previous messages would be stored 
 
 Tried different inputs for testing
 
-Changed settings to see difference in responses
+Changed settings like max_tokens and temperature to see difference in responses
 
 ## Challenges
 In the beginning i had a hard time understanding the API integration but then i was able to connect it.
@@ -24,7 +26,9 @@ Initially i build the chatbot in single turn mode,converting it into multiturn m
 ## How to run the application
 You can either download or u can clone the project
 
-Install the  python package required for this chatbot
+Open the project the Visual Studio Code
+
+Install the  python package required for this chatbot(OpenAI)
 
 Run the python file
 
