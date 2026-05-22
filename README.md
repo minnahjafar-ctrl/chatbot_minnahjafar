@@ -1,41 +1,32 @@
 # chatbot_minnahjafar
 
 ## Problem Statement
-Build a AI chatbot using Groq API and Python
+- Build an AI chatbot using Groq API and Python
+- Receive user input and generate AI responses
+- Store previous conversations for multi-turn interaction
 
-Receive user input and generate AI responses
+## Approach Adopted
+- Used Python and Groq API to develop the chatbot
+- Tested different settings such as max_tokens and temperature
+- Compared chatbot responses under different parameter values
 
-Store previous conversations
+## Steps Involved
+- Created the chatbot using Python
+- Connected the chatbot to Groq API
+- Tested the chatbot in single-turn mode
+- Converted the chatbot into multi-turn mode
+- Stored previous conversation history
+- Tested the chatbot using different inputs
+- Modified max_tokens and temperature settings to observe response changes
 
-## Approach adopted for solving
-I used Python and Groq API inorder to make the chatbot.
+## Challenges Faced
+- Faced difficulty understanding API integration initially
+- Converting the chatbot from single-turn mode to multi-turn mode was challenging
+- Resolved issues through testing and experimentation
 
-I tested the chatbot with various settings,changed max_tokens and temperture to see how differently the chatbot would respond.
-
-## Steps involved
-Firstly, I made the chatbot using Python
-
-connected to Groq API
-
-Chatbot was tested on in single turn mode
-
-The bot was then converted to multiturn mode so that previous messages would be stored 
-
-Tried different inputs for testing
-
-Changed settings like max_tokens and temperature to see difference in responses
-
-## Challenges
-In the beginning i had a hard time understanding the API integration but then i was able to connect it.
-Initially i build the chatbot in single turn mode,converting it into multiturn mode was a bit difficult.
-
-## How to run the application
-You can either download or u can clone the project
-
-Open the project the Visual Studio Code
-
-Install the  python package required for this chatbot
-
-Run the python file
-
-start chatting with the chatbot
+## How to Run the Application
+1. Download or clone the project
+2. Open the project folder in Visual Studio Code
+3. Install the required Python package
+4. Run the Python file
+5. Start interacting with the chatbot
