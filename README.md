@@ -8,9 +8,13 @@ used Python and OpenAI API inorder to make the chatbot.After building i tested t
 
 ## Steps involved
 Firstly, I made the chatbot using Python
+
 connected to openAI APi
+
 The bot was then converted to multiturn mode so that previous messages would be stored 
+
 Tried different inputs for testing
+
 Changed settings to see difference in responses
 
 ## Challenges
