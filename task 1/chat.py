@@ -1,6 +1,12 @@
+import os
+
 from groq import Groq
 
-client = Groq(api_key="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")
+from dotenv import load_dotenv
+
+load_dotenv()
+
+client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 messages = [
     {
